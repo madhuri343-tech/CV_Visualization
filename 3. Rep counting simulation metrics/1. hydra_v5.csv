@@ -1,0 +1,268 @@
+,variation,release_group,exercise_id,n_sets,MARE,OBZ,OB1,EC,rep_error_bias,is_FA,n_total_reps,signal_score,MARE delta w/ supermodel_v5_hydra,n_sets delta w/ supermodel_v5_hydra,is_FA delta w/ supermodel_v5_hydra
+0,alternating lunge jumps with both arms swinging,List A,613,17,10.43%,41.18%,82.35%,0,-0.29,96.19%,181,87.21%,1.66%,0.00,0.73%
+1,alternating lunge jumps with runner arms,List A,612,15,23.13%,26.67%,40.00%,0,-3.33,97.22%,204,9.40%,-1.30%,0.00,-0.12%
+2,bent over row kneeling alternating with resting arm down,MVP,620,6,12.40%,50.00%,50.00%,0,-1.00,96.14%,95,66.76%,0.42%,0.00,-0.49%
+3,bent over row kneeling both arms,MVP,618,7,3.92%,57.14%,100.00%,1,-0.14,99.84%,86,88.38%,0.00%,0.00,0.00%
+4,bent over row standing alternating with resting arm down,MVP,614,8,12.47%,37.50%,62.50%,0,-1.88,98.62%,108,59.71%,1.33%,0.00,-0.22%
+5,bent over row standing alternating with resting arm up,List A,615,4,9.72%,50.00%,50.00%,1,-1.50,97.83%,60,77.48%,0.00%,0.00,-0.65%
+6,bent over row standing both arms,MVP,616,9,0.00%,100.00%,100.00%,1,0.00,99.45%,90,95.42%,0.00%,0.00,0.02%
+7,bent over row standing single arm,MVP,619,6,17.27%,16.67%,33.33%,0,-3.17,85.98%,112,59.29%,-2.50%,0.00,-0.32%
+8,bicep curl balancing left alternating with resting arm down,MVP,629,7,4.29%,85.71%,85.71%,1,-0.43,88.72%,72,96.24%,0.54%,-1.00,-0.50%
+9,bicep curl balancing left single arm,MVP,637,6,6.56%,33.33%,83.33%,1,-0.67,96.20%,148,94.98%,0.52%,0.00,0.41%
+10,bicep curl balancing right both arms,MVP,632,9,1.11%,88.89%,100.00%,1,0.11,97.27%,92,98.96%,0.00%,0.00,0.04%
+11,bicep curl kneeling alternating with resting arm down,MVP,643,10,2.43%,80.00%,90.00%,1,0.30,95.36%,110,93.21%,1.00%,0.00,-0.66%
+12,bicep curl kneeling with both arms,MVP,645,12,0.83%,91.67%,100.00%,1,0.08,95.98%,111,97.28%,0.00%,0.00,-0.04%
+13,bicep curl kneeling with single arm,MVP,647,7,11.56%,57.14%,57.14%,0,-1.14,99.03%,136,87.93%,-0.34%,0.00,-0.08%
+14,bicep curl kneeling with single arm with resting arm half up,List A,648,7,11.36%,42.86%,57.14%,0,-1.43,100.00%,144,94.07%,0.00%,0.00,0.03%
+15,bicep curl standing alternating with resting arm down,MVP,657,9,9.71%,55.56%,77.78%,1,-0.33,95.49%,99,97.06%,0.00%,0.00,0.50%
+16,bicep curl standing alternating with resting arm up,List A,652,9,10.06%,0.00%,100.00%,0,0.56,99.63%,90,92.92%,0.12%,0.00,0.07%
+17,bicep curl standing with both arms,MVP,653,20,1.46%,85.00%,100.00%,1,0.15,98.84%,195,92.64%,-0.45%,0.00,0.05%
+18,bicep curl standing with single arm,MVP,655,11,1.34%,72.73%,100.00%,1,0.09,99.36%,203,94.48%,-0.48%,0.00,0.08%
+19,bird dog opposite arm and leg knee to elbow,List A,1024,15,20.77%,6.67%,33.33%,0,0.73,97.71%,269,94.95%,-0.33%,0.00,0.01%
+20,bird dog opposite arm and leg rep,List A,1025,7,0.71%,85.71%,100.00%,1,-0.14,96.98%,99,66.21%,0.00%,0.00,0.70%
+21,bodyweight squat 1.5 squat,List A,572,12,30.05%,33.33%,50.00%,0,1.50,91.33%,125,96.97%,0.00%,0.00,-0.19%
+22,bodyweight squat arms by side,MVP,575,6,3.31%,50.00%,100.00%,1,-0.17,89.80%,82,75.90%,-2.78%,0.00,-0.54%
+23,bodyweight squat arms overhead,MVP,573,7,1.43%,85.71%,100.00%,1,0.14,99.19%,68,60.00%,-1.19%,0.00,0.00%
+24,bodyweight squat arms straight out,MVP,574,4,0.00%,100.00%,100.00%,1,0.00,93.08%,38,41.73%,0.00%,0.00,-0.97%
+25,bodyweight squat arms swinging,MVP,576,5,0.00%,100.00%,100.00%,1,0.00,93.27%,57,97.01%,0.00%,0.00,-0.19%
+26,bodyweight squat hands at shoulders,MVP,329,19,1.96%,89.47%,94.74%,1,-0.21,96.00%,201,94.15%,-0.06%,0.00,0.04%
+27,bodyweight squat hands centered,MVP,577,19,1.28%,89.47%,100.00%,1,0.11,92.37%,194,93.23%,0.00%,0.00,0.29%
+28,bodyweight squat hands on head,MVP,578,13,2.31%,84.62%,92.31%,1,-0.23,97.83%,128,95.31%,0.00%,0.00,-0.02%
+29,bodyweight sumo squat 1.5 squat,List A,1628,3,18.18%,66.67%,66.67%,0,2.00,97.78%,34,95.00%,3.03%,0.00,0.05%
+30,bodyweight sumo squat arms overhead,MVP,1629,5,9.09%,80.00%,80.00%,1,-1.00,91.08%,51,84.05%,-2.00%,0.00,-1.48%
+31,bodyweight sumo squat arms straight out,MVP,1630,5,3.64%,80.00%,80.00%,1,-0.40,93.31%,55,89.35%,1.82%,0.00,0.32%
+32,bodyweight sumo squat arms swinging,MVP,1631,4,0.00%,100.00%,100.00%,1,0.00,92.52%,45,94.17%,0.00%,-1.00,-0.37%
+33,bodyweight sumo squat hands centered,MVP,1632,5,0.00%,100.00%,100.00%,1,0.00,95.56%,50,79.84%,0.00%,0.00,-0.43%
+34,bodyweight sumo squat hands on head,MVP,1633,5,30.00%,60.00%,60.00%,0,-3.00,68.52%,52,85.55%,0.00%,0.00,-0.35%
+35,bridging clamshells,List A,543,6,4.17%,83.33%,100.00%,1,0.17,100.00%,41,70.04%,4.17%,0.00,0.00%
+36,broad jump with back pedal,List A,1035,18,27.96%,38.89%,61.11%,0,3.44,99.45%,222,77.91%,-2.68%,0.00,-0.22%
+37,broad jump with jump back,List A,1037,7,26.28%,28.57%,57.14%,0,0.14,89.03%,51,54.51%,-5.36%,0.00,1.67%
+38,burpee chest to the ground,MVP,664,18,7.04%,72.22%,94.44%,1,0.22,93.15%,98,85.12%,-0.95%,-1.00,0.93%
+39,burpee from plank,MVP,665,16,3.17%,87.50%,87.50%,1,-0.25,91.90%,88,79.83%,0.19%,-1.00,0.47%
+40,burpee with pushup,MVP,666,17,16.57%,47.06%,82.35%,0,-0.88,94.26%,109,61.64%,-1.58%,-1.00,-0.02%
+41,chest fly standing both arms,MVP,1050,8,4.48%,50.00%,100.00%,1,0.50,96.12%,81,98.41%,0.00%,0.00,-0.03%
+42,chest fly standing staggered both arms,MVP,1051,12,1.59%,83.33%,100.00%,1,0.17,94.84%,138,97.40%,-0.40%,0.00,0.24%
+43,clamshells from laying,List A,587,17,8.90%,70.59%,76.47%,1,-0.71,98.54%,201,65.34%,-5.05%,0.00,0.02%
+44,clean both arms hang,List A,1058,20,8.33%,75.00%,90.00%,1,0.75,94.82%,193,91.68%,0.83%,0.00,0.04%
+45,clean single arm alternating,List A,1060,16,6.82%,81.25%,93.75%,1,0.69,96.08%,160,95.90%,-5.63%,0.00,5.86%
+46,concentrated curl kneeling lunge,List A,1030,18,9.25%,33.33%,72.22%,1,0.72,96.81%,183,79.62%,0.56%,0.00,-0.41%
+47,cross body curl kneeling alternating with resting arm down,MVP,588,16,2.79%,81.25%,93.75%,1,-0.31,91.48%,169,95.14%,0.46%,0.00,-0.81%
+48,cross body curl standing alternating with resting arm down,MVP,592,16,0.52%,93.75%,100.00%,1,0.06,92.46%,160,92.36%,-2.40%,0.00,-1.02%
+49,cross body curl standing single arm with resting arm down,MVP,593,10,9.79%,60.00%,90.00%,1,-1.80,95.42%,196,96.39%,0.00%,0.00,-0.04%
+50,crunch arms above you,List A,1082,18,9.02%,66.67%,72.22%,1,-0.72,99.47%,195,59.85%,0.19%,0.00,-0.08%
+51,crunch arms overhead,List A,1081,18,4.83%,72.22%,94.44%,1,0.11,99.05%,178,64.84%,1.23%,0.00,0.10%
+52,crunch table top,List A,1083,18,9.34%,50.00%,83.33%,1,-0.33,99.75%,191,27.93%,-0.75%,0.00,0.00%
+53,deadlift arms by side,MVP,671,15,6.96%,80.00%,86.67%,1,-0.67,83.92%,143,91.00%,-1.41%,0.00,-0.27%
+54,deadlift arms straight out,MVP,672,15,6.07%,80.00%,86.67%,1,-0.47,92.19%,144,94.35%,1.41%,0.00,-0.36%
+55,deadlift hands on hips,MVP,673,15,4.81%,86.67%,86.67%,1,-0.20,88.75%,151,95.17%,0.07%,0.00,0.52%
+56,deadlift romanian,MVP,675,10,0.00%,100.00%,100.00%,1,0.00,86.29%,98,98.85%,0.00%,0.00,-0.53%
+57,deadlift single dumbbell,MVP,676,9,8.53%,55.56%,88.89%,1,-1.44,91.95%,128,97.24%,0.00%,0.00,-0.26%
+58,deadlift suitcase,MVP,677,7,9.09%,85.71%,85.71%,1,-1.00,93.25%,72,97.43%,0.00%,0.00,0.23%
+59,diagonal chop bodyweight,List A,1065,16,10.35%,62.50%,87.50%,0,0.81,94.77%,318,89.68%,0.00%,0.00,0.00%
+60,dumbbell pass through on knees,List A,1141,17,17.24%,23.53%,64.71%,0,-0.53,93.70%,174,59.99%,5.89%,0.00,-3.11%
+61,dumbbell pass through on toes,List A,1142,19,16.98%,31.58%,52.63%,0,0.16,92.07%,190,61.24%,-1.35%,0.00,0.14%
+62,dumbbell push up on knees,MVP,1530,5,7.71%,60.00%,80.00%,1,0.20,93.31%,44,95.94%,0.00%,0.00,1.81%
+63,dumbbell push up on toes,MVP,1529,4,0.00%,100.00%,100.00%,1,0.00,95.26%,40,95.83%,0.00%,0.00,0.71%
+64,dumbbell swing alternating single arm passing dumbbell,List A,679,16,9.96%,37.50%,81.25%,1,-0.63,95.15%,178,89.96%,0.62%,0.00,-0.20%
+65,dumbbell swing both arms single dumbbell,List A,681,19,7.19%,52.63%,84.21%,1,0.11,94.46%,201,95.29%,0.00%,0.00,-0.01%
+66,dumbbell swing suitcase,List A,687,10,5.67%,40.00%,100.00%,1,0.00,89.96%,107,92.94%,1.00%,0.00,0.27%
+67,dumbbell thruster alternating,MVP,689,14,11.72%,57.14%,71.43%,0,-1.29,96.38%,168,98.27%,0.00%,0.00,-0.42%
+68,dumbbell thruster classic,MVP,688,12,1.67%,83.33%,100.00%,1,0.17,96.59%,121,98.54%,0.00%,0.00,-0.06%
+69,dumbbell thruster to rotational press both arms,MVP,691,10,2.00%,90.00%,90.00%,1,0.20,96.99%,99,92.99%,-1.00%,0.00,0.46%
+70,french doors kneeling alternating with resting arm in,MVP,1319,12,4.79%,66.67%,91.67%,1,-0.33,95.81%,123,60.08%,0.00%,0.00,-0.47%
+71,french doors kneeling both arms,MVP,1145,11,1.67%,81.82%,100.00%,1,0.00,97.29%,111,76.00%,0.00%,0.00,-0.14%
+72,french doors standing alternating with resting arm in,MVP,1320,20,1.83%,85.00%,100.00%,1,0.05,98.83%,198,57.66%,0.33%,0.00,-0.13%
+73,french doors standing both arms,MVP,1148,20,1.42%,85.00%,100.00%,1,0.05,98.69%,211,80.28%,0.00%,0.00,-0.06%
+74,french doors standing single arm,MVP,1149,14,0.42%,92.86%,100.00%,1,0.07,98.77%,245,67.65%,0.42%,0.00,-0.01%
+75,front lunge arms by side,MVP,700,8,8.33%,50.00%,62.50%,1,-1.00,92.77%,92,82.28%,3.19%,0.00,-0.12%
+76,front lunge arms out laterally,MVP,704,7,4.29%,57.14%,100.00%,1,0.14,89.26%,73,83.23%,-1.43%,0.00,0.87%
+77,front lunge arms overhead,MVP,702,8,5.00%,87.50%,87.50%,1,-0.50,95.17%,80,86.76%,1.25%,0.00,-0.62%
+78,front lunge arms straight out,MVP,701,12,4.65%,66.67%,83.33%,1,-0.17,84.35%,120,96.72%,2.36%,0.00,3.46%
+79,front lunge hands on hips,MVP,705,8,3.89%,62.50%,100.00%,1,0.13,94.84%,79,86.04%,2.64%,0.00,0.15%
+80,front lunge runner arms,MVP,707,14,2.18%,78.57%,92.86%,1,-0.14,94.12%,151,95.70%,-1.43%,0.00,1.06%
+81,front lunge weights hanging,MVP,708,14,0.71%,92.86%,100.00%,1,-0.07,95.07%,139,97.41%,0.00%,0.00,1.43%
+82,front lunge weights racked,MVP,710,12,2.50%,83.33%,91.67%,1,-0.25,95.40%,119,96.90%,0.00%,0.00,0.51%
+83,front lunge with curl,List A,706,9,1.11%,88.89%,100.00%,1,0.11,90.58%,95,97.43%,-9.89%,-1.00,9.22%
+84,front raise kneeling alternating with resting arm down,MVP,716,5,2.00%,80.00%,100.00%,1,0.20,97.66%,50,96.76%,2.00%,0.00,1.61%
+85,front raise kneeling both arms,MVP,718,10,3.71%,60.00%,100.00%,1,0.00,97.54%,104,99.09%,0.00%,0.00,0.24%
+86,front raise kneeling single arm with resting arm down,MVP,719,12,3.19%,66.67%,83.33%,1,0.00,94.60%,220,94.56%,0.42%,0.00,0.13%
+87,front raise standing alternating with resting arm down,MVP,731,16,4.31%,68.75%,93.75%,1,-0.44,95.55%,167,96.75%,-0.63%,0.00,-0.38%
+88,front raise standing alternating with resting arm up,List A,728,12,13.33%,25.00%,83.33%,0,0.67,98.80%,121,91.80%,0.83%,0.00,-0.11%
+89,front raise standing both arms,MVP,729,15,1.33%,86.67%,100.00%,1,-0.13,97.29%,142,99.20%,0.00%,0.00,0.29%
+90,front raise standing single arm with resting arm down,MVP,730,11,9.55%,63.64%,81.82%,1,-1.73,94.74%,209,96.21%,-0.45%,0.00,4.74%
+91,front raise standing single arm with resting arm up,List A,727,12,23.66%,25.00%,58.33%,0,2.50,93.26%,173,96.67%,1.99%,0.00,11.97%
+92,front to back lunge arms by side,List A,1164,6,11.44%,33.33%,83.33%,0,0.33,92.82%,66,87.79%,-1.39%,0.00,-0.52%
+93,front to back lunge weights hanging,List A,1169,19,7.18%,47.37%,68.42%,1,-1.05,89.97%,319,93.68%,1.32%,0.00,0.74%
+94,front to back lunge with rotation,List A,1163,11,23.76%,45.45%,72.73%,0,-0.09,91.98%,166,93.50%,1.82%,0.00,0.79%
+95,hand release pushup on knees,List A,304,16,3.73%,75.00%,93.75%,1,0.31,94.78%,125,95.04%,0.20%,0.00,0.43%
+96,hand release pushup on knees arms extended,List A,1503,6,18.48%,50.00%,83.33%,0,-1.67,98.74%,66,6.58%,1.67%,0.00,0.00%
+97,hand release pushup on toes,List A,594,13,3.08%,84.62%,100.00%,1,0.15,91.26%,66,92.04%,0.00%,0.00,0.37%
+98,hand release pushup on toes arms extended,List A,1502,5,28.82%,40.00%,60.00%,0,-3.20,97.40%,54,9.32%,0.00%,0.00,-0.16%
+99,hip bridge repping hands bent at 90,List A,599,20,0.91%,95.00%,95.00%,1,0.10,100.00%,209,84.08%,0.00%,0.00,0.00%
+100,lateral lunge alternating single dumbbell,MVP,749,14,5.87%,50.00%,100.00%,1,0.07,88.45%,137,88.15%,1.21%,-1.00,1.16%
+101,lateral lunge arms by side,MVP,740,19,5.39%,78.95%,94.74%,1,-0.42,83.37%,186,97.07%,0.27%,-1.00,0.95%
+102,lateral lunge arms by side dumbbell,MVP,750,11,9.14%,54.55%,81.82%,1,-0.73,84.90%,104,97.93%,0.00%,0.00,-1.62%
+103,lateral lunge arms straight out,MVP,737,7,3.02%,71.43%,100.00%,1,-0.29,81.35%,70,82.67%,0.00%,0.00,-1.58%
+104,lateral lunge hands on head,MVP,738,6,0.00%,100.00%,100.00%,1,0.00,89.05%,59,77.33%,0.00%,0.00,-0.82%
+105,lateral lunge hands on hips,MVP,739,12,12.38%,75.00%,83.33%,0,0.25,88.33%,111,95.49%,0.93%,0.00,-0.18%
+106,lateral lunge left,MVP,319,8,5.81%,50.00%,100.00%,1,-0.50,87.32%,62,83.77%,1.79%,0.00,-0.26%
+107,lateral lunge swing to arms overhead,MVP,746,8,6.14%,37.50%,100.00%,1,0.13,87.89%,82,96.05%,0.00%,0.00,1.39%
+108,lateral lunge weights racked,MVP,751,17,5.89%,64.71%,88.24%,1,-0.47,95.22%,169,73.78%,-0.23%,-1.00,0.05%
+109,lateral lunge with runners arms,MVP,744,8,3.57%,87.50%,87.50%,1,-0.50,78.82%,89,91.11%,-1.25%,0.00,-0.59%
+110,lateral raise kneeling alternating with resting arm down,MVP,770,3,5.92%,33.33%,100.00%,1,0.67,87.67%,37,97.85%,0.00%,0.00,-1.24%
+111,lateral raise kneeling both arms,MVP,772,6,0.00%,100.00%,100.00%,1,0.00,91.67%,54,98.34%,0.00%,0.00,0.89%
+112,lateral raise kneeling eccentric,MVP,769,7,4.76%,85.71%,85.71%,1,-0.29,95.36%,66,97.69%,0.00%,0.00,-0.21%
+113,lateral raise kneeling lunge left alternating with resting arm down,MVP,757,12,1.04%,91.67%,100.00%,1,0.08,99.08%,121,97.09%,0.00%,0.00,0.21%
+114,lateral raise kneeling lunge left single arm with resting arm down,MVP,756,13,0.77%,84.62%,100.00%,1,0.00,98.00%,205,96.23%,0.00%,0.00,0.49%
+115,lateral raise kneeling lunge right both arms,MVP,765,14,0.00%,100.00%,100.00%,1,0.00,98.96%,138,98.20%,0.00%,0.00,0.17%
+116,lateral raise kneeling single arm with resting arm down,MVP,773,6,0.00%,100.00%,100.00%,1,0.00,96.26%,89,96.80%,0.00%,0.00,0.48%
+117,lateral raise standing alternating with resting arm down,MVP,780,8,3.78%,62.50%,100.00%,1,-0.38,91.29%,78,94.88%,2.53%,0.00,0.26%
+118,lateral raise standing both arms,MVP,778,16,0.00%,100.00%,100.00%,1,0.00,95.53%,161,98.60%,0.00%,0.00,-0.17%
+119,lateral raise standing eccentric,MVP,775,7,1.43%,85.71%,100.00%,1,0.14,95.24%,75,97.97%,0.00%,0.00,-0.25%
+120,lateral raise standing single arm with resting arm down,MVP,779,6,3.33%,50.00%,100.00%,1,0.50,96.74%,96,97.88%,0.00%,0.00,0.62%
+121,neutral grip chest press hook lying both arms,MVP,1212,19,7.60%,78.95%,84.21%,1,-0.47,93.40%,202,86.69%,3.63%,1.00,-3.73%
+122,neutral grip chest press table top alternating with resting arm up,List A,1228,11,10.41%,54.55%,72.73%,0,-0.73,99.14%,114,71.45%,0.91%,0.00,0.08%
+123,neutral grip chest press table top both arms,MVP,1229,8,0.00%,100.00%,100.00%,1,0.00,99.87%,80,78.81%,0.00%,0.00,0.00%
+124,overhead extension kneeling both arms,MVP,805,16,8.43%,18.75%,93.75%,1,0.63,99.76%,170,96.31%,0.63%,0.00,0.01%
+125,overhead extension kneeling lunge right one dumbbell,MVP,787,18,11.83%,44.44%,88.89%,0,0.56,99.56%,186,87.02%,1.57%,0.00,0.02%
+126,overhead extension kneeling one dumbbell,MVP,786,9,10.50%,22.22%,77.78%,0,0.22,100.00%,113,89.10%,0.00%,0.00,0.00%
+127,overhead extension kneeling right lunge both arms,MVP,799,19,6.36%,52.63%,89.47%,1,0.32,98.21%,186,86.50%,-1.93%,0.00,-0.10%
+128,overhead extension kneeling single arm with resting arm down,MVP,802,18,0.97%,83.33%,94.44%,1,-0.11,99.85%,262,94.96%,-0.99%,0.00,0.31%
+129,overhead extension standing alternating with resting arm down,MVP,812,6,0.00%,100.00%,100.00%,1,0.00,99.22%,55,94.00%,0.00%,0.00,0.17%
+130,overhead extension standing both arms,MVP,810,11,13.30%,36.36%,72.73%,0,1.09,99.21%,111,73.46%,1.44%,0.00,-0.05%
+131,overhead extension standing one dumbbell,MVP,807,20,16.81%,45.00%,70.00%,0,-0.40,98.61%,220,87.84%,-0.05%,0.00,-0.03%
+132,overhead extension standing single arm,MVP,811,19,6.59%,36.84%,73.68%,1,0.89,96.41%,307,94.71%,1.45%,0.00,0.31%
+133,overhead press kneeling alternating resting arm down,MVP,831,18,1.62%,83.33%,100.00%,1,-0.06,94.94%,184,98.44%,-0.56%,0.00,-0.14%
+134,overhead press kneeling both arms,MVP,835,18,2.58%,77.78%,94.44%,1,-0.17,93.67%,192,94.37%,0.00%,0.00,-0.04%
+135,overhead press kneeling single arm,List A,836,20,12.78%,55.00%,80.00%,0,-0.90,91.23%,379,89.06%,0.29%,0.00,-0.45%
+136,overhead press kneeling single arm with resting arm down,MVP,832,20,3.06%,80.00%,95.00%,1,-0.20,86.81%,198,93.40%,1.56%,0.00,0.05%
+137,overhead press standing alternating with resting arm down,MVP,841,20,2.51%,75.00%,100.00%,1,-0.15,91.63%,197,85.68%,-1.50%,0.00,-0.62%
+138,overhead press standing alternating with resting arm up,List A,837,19,9.70%,42.11%,89.47%,1,-0.16,94.02%,198,81.14%,0.53%,0.00,0.71%
+139,overhead press standing both arms,MVP,839,19,8.01%,68.42%,89.47%,1,-0.68,88.42%,179,91.12%,0.53%,0.00,-0.29%
+140,overhead press standing single arm,MVP,840,20,1.53%,70.00%,100.00%,1,0.00,95.33%,401,97.92%,0.00%,0.00,0.10%
+141,overhead press standing single arm with resting arm down,MVP,842,19,2.11%,78.95%,100.00%,1,0.11,89.12%,190,98.69%,0.53%,0.00,0.08%
+142,overhead press wide kneeling alternating resting arm down,MVP,1498,5,0.00%,100.00%,100.00%,1,0.00,97.79%,60,88.29%,0.00%,0.00,0.49%
+143,overhead press wide kneeling both arms,MVP,1500,5,0.00%,100.00%,100.00%,1,0.00,96.54%,50,79.53%,0.00%,0.00,0.00%
+144,overhead press wide kneeling single arm,MVP,1501,5,23.33%,60.00%,80.00%,0,-1.40,78.40%,30,59.37%,-3.33%,0.00,-0.32%
+145,overhead press wide standing alternating with resting arm down,MVP,1493,8,2.08%,75.00%,100.00%,1,0.00,97.63%,96,95.65%,0.00%,0.00,0.18%
+146,overhead press wide standing both arms,MVP,1495,3,6.67%,66.67%,66.67%,1,-0.67,88.37%,30,97.28%,3.33%,0.00,-0.85%
+147,overhead press wide standing single arm,MVP,1496,6,13.10%,66.67%,66.67%,0,-1.00,81.86%,43,79.21%,0.00%,0.00,0.00%
+148,overhead press wide standing single arm with resting arm down,MVP,1497,5,0.00%,100.00%,100.00%,1,0.00,96.07%,32,79.60%,0.00%,0.00,0.26%
+149,pike pushup on knees,List A,335,15,2.67%,86.67%,93.33%,1,-0.27,99.78%,133,71.47%,0.67%,0.00,0.00%
+150,pike pushup on toes,List A,851,13,3.46%,84.62%,92.31%,1,0.38,100.00%,117,63.74%,0.48%,0.00,0.00%
+151,punches alternating heels planted,List A,1084,11,15.86%,36.36%,63.64%,0,-1.00,96.62%,146,84.10%,-1.82%,0.00,0.71%
+152,push press single arm,List A,1242,13,23.16%,30.77%,46.15%,0,-3.46,64.18%,218,88.44%,-0.35%,0.00,1.87%
+153,push press standing both arms,List A,1241,20,69.00%,10.00%,10.00%,0,-6.55,28.01%,185,56.26%,1.00%,0.00,-0.08%
+154,pushup jack at bottom,List A,963,16,9.58%,81.25%,87.50%,1,-0.44,86.37%,86,83.12%,0.00%,0.00,-0.19%
+155,pushup on knees,MVP,328,15,9.30%,66.67%,86.67%,1,-1.27,89.48%,180,83.60%,-0.55%,0.00,-0.40%
+156,pushup on toes,MVP,856,13,9.60%,76.92%,76.92%,1,-0.92,82.43%,121,91.91%,-0.96%,0.00,-0.37%
+157,reverse fly on knees both arms,MVP,1253,19,5.69%,63.16%,89.47%,1,0.32,96.08%,198,91.89%,1.00%,0.00,-0.12%
+158,reverse fly split stance both arms,MVP,1256,14,5.59%,28.57%,71.43%,1,0.79,92.67%,248,91.59%,-0.92%,0.00,0.34%
+159,reverse fly standing bent over alternating,MVP,1251,11,19.64%,36.36%,45.45%,0,-2.00,92.99%,128,64.94%,0.00%,0.00,-0.04%
+160,reverse fly standing bent over both arms,MVP,1250,18,1.94%,83.33%,94.44%,1,-0.11,99.21%,194,93.11%,0.51%,0.00,-0.13%
+161,reverse lunge alternating,MVP,871,10,0.00%,100.00%,100.00%,1,0.00,95.48%,119,96.05%,0.00%,0.00,0.40%
+162,reverse lunge alternating single dumbbell pass through,List A,872,8,2.21%,75.00%,100.00%,1,0.00,95.92%,88,93.83%,0.00%,0.00,0.02%
+163,reverse lunge arms by side,MVP,881,18,4.99%,72.22%,94.44%,1,-0.22,95.06%,197,92.26%,-0.51%,0.00,-0.28%
+164,reverse lunge arms by side dumbbell,MVP,890,13,2.46%,84.62%,92.31%,1,0.31,96.61%,144,89.70%,1.10%,0.00,-1.05%
+165,reverse lunge arms overhead,MVP,883,19,0.53%,94.74%,100.00%,1,-0.05,97.89%,209,94.51%,-0.03%,1.00,-0.03%
+166,reverse lunge arms overhead dumbbell,MVP,891,5,0.00%,100.00%,100.00%,1,0.00,96.41%,52,95.67%,0.00%,0.00,-0.66%
+167,reverse lunge arms straight out,MVP,882,20,0.00%,100.00%,100.00%,1,0.00,95.92%,220,95.12%,0.00%,1.00,-0.06%
+168,reverse lunge hands on hips,MVP,884,17,6.04%,64.71%,82.35%,1,-0.65,94.94%,185,82.05%,0.00%,0.00,-0.35%
+169,reverse lunge offset,MVP,877,5,0.00%,100.00%,100.00%,1,0.00,92.34%,51,96.58%,0.00%,0.00,-0.35%
+170,reverse lunge runner arms,MVP,887,17,1.60%,88.24%,94.12%,1,-0.18,95.31%,182,94.42%,0.00%,0.00,-0.34%
+171,reverse lunge single dumbbell by side,MVP,878,7,4.29%,85.71%,85.71%,1,-0.43,97.21%,70,93.14%,0.00%,0.00,-0.09%
+172,reverse lunge single dumbbell overhead,MVP,879,6,6.52%,66.67%,83.33%,1,-0.67,88.29%,60,95.14%,0.00%,0.00,0.27%
+173,reverse lunge single leg,MVP,880,4,14.86%,25.00%,75.00%,0,-2.50,98.18%,68,96.61%,0.00%,0.00,0.04%
+174,reverse lunge weights racked,MVP,892,8,2.50%,87.50%,87.50%,1,-0.25,95.55%,86,95.62%,0.00%,0.00,-0.24%
+175,reverse lunge with curl,List A,885,19,3.16%,89.47%,89.47%,1,-0.32,98.28%,185,97.04%,0.00%,0.00,0.17%
+176,reverse lunge with twist dumbbell,List A,889,7,7.30%,42.86%,85.71%,1,0.14,97.35%,69,30.31%,0.00%,0.00,-0.02%
+177,roll up fingertips to ceiling,List A,1093,17,4.97%,70.59%,88.24%,1,0.24,92.79%,157,88.83%,1.18%,0.00,-0.17%
+178,roll up fingertips to toes,List A,1094,19,4.36%,73.68%,94.74%,1,0.05,91.54%,169,90.98%,-0.88%,0.00,0.37%
+179,shoulder tap on knees,List A,1096,17,18.54%,23.53%,58.82%,0,-2.59,93.14%,211,39.80%,-0.73%,0.00,-0.19%
+180,shoulder tap on toes,List A,1098,14,31.09%,0.00%,21.43%,0,-3.93,86.04%,194,48.27%,0.99%,0.00,0.09%
+181,side bend kneeling alternating,List A,1106,13,0.64%,92.31%,100.00%,1,-0.08,99.02%,142,81.60%,0.00%,0.00,-0.08%
+182,side bend kneeling single side,List A,1105,13,11.44%,23.08%,76.92%,0,-0.54,96.64%,243,82.53%,-2.71%,0.00,0.72%
+183,single leg deadlift alternating arms by side,MVP,904,18,7.47%,72.22%,94.44%,1,0.67,94.45%,190,94.17%,0.46%,0.00,-0.03%
+184,single leg deadlift alternating arms straight out,MVP,905,18,3.59%,66.67%,94.44%,1,0.17,93.83%,197,96.02%,0.00%,0.00,0.12%
+185,single leg deadlift both hands holding one dumbbell,MVP,915,19,1.38%,73.68%,100.00%,1,-0.05,97.33%,294,95.72%,0.00%,0.00,0.01%
+186,single leg deadlift opposite side hand dumbbell,MVP,908,11,6.31%,63.64%,90.91%,1,-0.45,96.69%,117,89.74%,0.00%,0.00,0.01%
+187,single leg deadlift same leg arms by side,MVP,910,20,1.11%,90.00%,100.00%,1,0.10,95.17%,259,96.87%,0.00%,0.00,0.03%
+188,single leg deadlift same side hand dumbbell,MVP,909,13,1.08%,84.62%,100.00%,1,0.00,94.52%,187,94.91%,0.31%,0.00,0.26%
+189,snatch alternating,MVP,1107,20,12.93%,45.00%,70.00%,0,0.05,89.36%,205,87.23%,-0.45%,0.00,-0.13%
+190,snatch both arms,MVP,1108,10,2.25%,80.00%,100.00%,1,0.20,97.82%,98,97.63%,0.00%,0.00,-0.08%
+191,snatch hang,MVP,1110,20,3.63%,90.00%,95.00%,1,-0.25,93.01%,197,96.57%,-0.42%,0.00,-0.61%
+192,snatch power,MVP,1112,19,20.73%,5.26%,47.37%,0,-1.58,91.35%,342,94.96%,-0.37%,0.00,-0.20%
+193,snatch single arm,MVP,1109,8,32.26%,0.00%,37.50%,0,2.50,97.28%,88,97.07%,-1.39%,0.00,0.40%
+194,split squat arms by side,MVP,937,11,11.01%,81.82%,90.91%,0,1.00,98.43%,101,78.17%,3.03%,0.00,0.27%
+195,split squat arms out laterally,MVP,938,10,0.00%,100.00%,100.00%,1,0.00,98.24%,97,80.58%,0.00%,0.00,0.05%
+196,split squat arms overhead,MVP,940,11,11.13%,54.55%,72.73%,0,0.00,99.21%,109,61.11%,3.18%,0.00,0.44%
+197,split squat arms straight out,MVP,939,20,4.62%,30.00%,85.00%,1,0.90,98.41%,395,94.49%,0.26%,0.00,0.02%
+198,split squat hands on hips,MVP,942,16,6.19%,62.50%,81.25%,1,0.31,97.26%,194,81.26%,-2.27%,0.00,0.25%
+199,split squat runners arms,MVP,945,20,3.38%,55.00%,85.00%,1,0.55,98.63%,369,92.74%,0.23%,0.00,0.04%
+200,split squat with lateral raise,List A,944,12,11.59%,58.33%,91.67%,0,-0.58,98.48%,120,96.24%,0.83%,0.00,2.71%
+201,squat jumps arms by side,MVP,949,20,8.73%,30.00%,85.00%,1,-0.25,92.21%,235,90.91%,-0.13%,0.00,0.12%
+202,squat jumps arms by side dumbbell,MVP,955,8,3.52%,62.50%,100.00%,1,-0.38,92.44%,82,81.66%,0.00%,0.00,0.00%
+203,squat jumps arms straight out,MVP,951,18,15.45%,50.00%,83.33%,0,-2.11,86.49%,199,84.82%,0.00%,0.00,0.08%
+204,squat jumps arms swinging,MVP,952,7,5.90%,57.14%,85.71%,1,0.29,95.69%,73,95.61%,-1.59%,0.00,-0.18%
+205,squat jumps hands centered,MVP,948,20,6.08%,65.00%,95.00%,1,0.55,95.48%,234,95.45%,0.00%,0.00,0.16%
+206,squat jumps hands on hips,MVP,950,20,14.60%,45.00%,75.00%,0,-1.65,86.98%,239,82.58%,-0.96%,0.00,0.75%
+207,squat jumps single dumbbell hanging center,MVP,947,9,14.20%,44.44%,66.67%,0,-1.00,84.53%,91,86.76%,0.00%,0.00,-0.26%
+208,squat jumps weights racked,MVP,956,8,10.68%,62.50%,75.00%,0,-0.13,92.88%,84,83.11%,0.00%,0.00,-0.05%
+209,squat thrust jump back,List A,1585,10,4.00%,80.00%,80.00%,1,0.00,87.06%,102,47.01%,0.00%,0.00,0.42%
+210,squat thrust step back,List A,1586,7,18.85%,14.29%,57.14%,0,0.14,80.55%,77,66.46%,0.00%,0.00,0.00%
+211,standing good morning hands on head,List A,1073,19,6.04%,52.63%,63.16%,1,0.89,98.75%,276,77.19%,0.12%,0.00,0.01%
+212,supinated row alternating with resting arm down,List A,1647,5,37.97%,20.00%,60.00%,0,-0.60,96.65%,56,85.49%,-6.54%,0.00,0.41%
+213,supinated row alternating with resting arm up,List A,1648,5,4.22%,40.00%,100.00%,1,-0.20,97.37%,68,79.55%,0.29%,0.00,-0.30%
+214,supinated row both arms,List A,1649,7,0.00%,100.00%,100.00%,1,0.00,99.93%,77,72.96%,0.00%,-1.00,0.04%
+215,supinated row on knees same time,List A,1650,5,30.00%,60.00%,60.00%,0,2.60,98.35%,54,82.86%,0.00%,0.00,1.10%
+216,supinated row single arm,List A,1651,10,16.77%,50.00%,80.00%,0,-0.80,93.74%,90,57.93%,1.11%,0.00,-0.15%
+217,tall kneeling good morning hands on hips,List A,1074,17,0.00%,100.00%,100.00%,1,0.00,96.92%,166,94.38%,0.00%,0.00,-0.06%
+218,tall kneeling good morning with dumbbell,List A,1075,17,2.94%,94.12%,94.12%,1,-0.29,99.34%,169,89.47%,0.00%,0.00,0.26%
+219,tall kneeling good mornings hands behind head,List A,1484,3,5.56%,66.67%,66.67%,1,0.67,99.92%,40,3.78%,0.00%,0.00,0.00%
+220,tricep kickback kneeling alternating with resting arm down,MVP,1261,15,6.88%,60.00%,80.00%,1,0.00,98.22%,166,78.69%,1.05%,0.00,0.18%
+221,tricep kickback kneeling alternating with resting arm up,List A,1262,13,16.92%,38.46%,61.54%,0,-1.38,99.80%,130,50.48%,-0.77%,0.00,0.10%
+222,tricep kickback kneeling both arms,MVP,1260,17,5.15%,70.59%,88.24%,1,-0.06,96.51%,170,80.92%,-0.59%,0.00,-0.02%
+223,tricep kickback standing alternating with resting arm down,MVP,1270,12,10.28%,50.00%,75.00%,0,-0.83,100.00%,118,81.39%,-1.59%,0.00,0.12%
+224,tricep kickback standing alternating with resting arm up,List A,1269,10,18.00%,30.00%,50.00%,0,-1.60,100.00%,99,63.76%,3.00%,0.00,0.00%
+225,tricep kickback standing both arms,MVP,1267,18,4.09%,83.33%,94.44%,1,-0.33,99.66%,207,80.25%,0.51%,0.00,0.42%
+226,tricep kickback standing single arm with resting arm down,MVP,1268,20,8.64%,65.00%,75.00%,1,-0.15,98.93%,393,85.32%,-1.00%,0.00,-0.18%
+227,tuck jump consecutive,List A,1076,17,45.75%,5.88%,11.76%,0,-9.18,93.10%,360,29.72%,-0.55%,0.00,0.15%
+228,tuck jump with pause,List A,1077,17,16.99%,23.53%,64.71%,0,-2.06,88.88%,192,45.66%,-1.17%,0.00,0.18%
+229,tuck up arms overhead,MVP,1124,18,18.57%,61.11%,72.22%,0,-1.06,79.50%,160,87.89%,1.17%,0.00,0.01%
+230,tuck up assisted,MVP,1730,11,2.34%,72.73%,100.00%,1,-0.27,96.58%,121,83.14%,0.00%,0.00,-0.26%
+231,tuck up both legs arms by side,MVP,1123,5,2.00%,80.00%,100.00%,1,0.20,97.44%,51,82.13%,0.00%,0.00,0.38%
+232,tuck up hands grab feet,MVP,1126,16,3.13%,81.25%,93.75%,1,0.31,93.20%,149,91.90%,0.00%,0.00,0.03%
+233,tuck up hands grab knees,MVP,1125,19,7.82%,47.37%,89.47%,1,0.42,96.05%,174,84.13%,0.48%,0.00,0.36%
+234,turkish getup alternating,List A,1127,10,100.00%,0.00%,0.00%,0,-5.20,98.19%,52,5.20%,0.00%,0.00,-0.01%
+235,turkish getup same side,List A,1128,12,100.00%,0.00%,0.00%,0,-6.33,94.94%,76,18.64%,0.00%,0.00,-0.13%
+236,v up arms by side,MVP,1129,14,2.08%,85.71%,92.86%,1,-0.21,92.57%,138,84.43%,-2.01%,0.00,0.84%
+237,v up arms overhead,MVP,1130,20,4.75%,80.00%,90.00%,1,-0.10,93.01%,182,78.92%,0.56%,0.00,0.05%
+238,v up assisted,MVP,1131,15,8.03%,60.00%,80.00%,1,-0.27,93.50%,153,75.11%,0.19%,0.00,0.23%
+239,wide grip bent over row alternating with resting arm down,MVP,1721,6,7.94%,66.67%,66.67%,1,1.00,93.18%,76,75.72%,3.97%,0.00,0.71%
+240,wide grip bent over row alternating with resting arm up,List A,1718,8,15.55%,25.00%,37.50%,0,0.75,97.78%,118,47.03%,0.77%,0.00,0.08%
+241,wide grip bent over row both arms,MVP,1719,6,0.00%,100.00%,100.00%,1,0.00,100.00%,67,96.89%,0.00%,0.00,0.00%
+242,wide grip chest press hook lying both arms,MVP,1523,4,2.08%,75.00%,100.00%,1,0.25,97.99%,51,86.72%,0.00%,0.00,-0.26%
+243,wide grip chest press table top both arms,MVP,1527,4,1.92%,75.00%,100.00%,1,-0.25,100.00%,50,31.38%,0.00%,0.00,0.00%
+244,wood chop kneeling alternating,MVP,1136,10,6.39%,10.00%,100.00%,1,0.70,98.47%,144,99.02%,0.00%,0.00,-0.04%
+245,wood chop kneeling single side,MVP,1133,5,3.05%,40.00%,100.00%,1,0.60,99.80%,100,99.04%,0.00%,0.00,0.28%
+246,wood chop one knee,MVP,1140,12,7.63%,33.33%,75.00%,1,0.00,94.82%,243,98.68%,0.00%,0.00,-0.27%
+247,wood chop sitting alternating,MVP,1135,11,15.04%,0.00%,81.82%,0,1.27,99.96%,144,98.65%,0.00%,0.00,0.16%
+248,wood chop sitting single side,MVP,1134,5,4.11%,20.00%,100.00%,1,0.80,98.84%,99,98.22%,0.00%,0.00,-0.18%
+249,wood chop standing alternating,MVP,1137,10,8.03%,20.00%,80.00%,1,0.60,99.56%,134,99.35%,0.71%,0.00,-0.11%
+250,wood chop standing single side,MVP,1315,9,4.65%,22.22%,100.00%,1,0.33,98.55%,154,99.24%,0.00%,0.00,0.10%
+251,zottman curl balancing alternating with resting arm down,MVP,1291,8,0.00%,100.00%,100.00%,1,0.00,94.98%,82,98.27%,-1.25%,0.00,0.51%
+252,zottman curl kneeling both arms,MVP,1279,12,1.68%,83.33%,100.00%,1,0.00,98.04%,122,96.20%,0.13%,-1.00,0.02%
+253,zottman curl standing alternating with resting arm down,MVP,1287,8,0.00%,100.00%,100.00%,1,0.00,96.33%,77,98.58%,-1.25%,0.00,0.63%
+254,zottman curl standing alternating with resting arm up,List A,1281,8,18.13%,0.00%,75.00%,0,1.75,100.00%,78,98.36%,1.25%,0.00,0.40%
+255,zottman curl standing both arms,MVP,1282,12,5.83%,83.33%,83.33%,1,-0.58,97.08%,110,99.40%,0.00%,0.00,-0.13%
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+All,Average,,,12.14,8.41%,63.85%,84.52%,0.74,-0.29,94.23%,,83.96%,0.01%,,0.17%
+,Sum,256,,3107,,,,,,,,,,-8.00,
+,,,,,,,,,,,,,,,
+MVP,Average,,,11.86,5.45%,69.81%,89.48%,0.85,-0.18,94.20%,,89.01%,0.06%,,0.03%
+,Sum,182,,2159,,,,,,,,,,-6.00,
+,,,,,,,,,,,,,,,
+List A,Average,,,12.81,15.70%,49.20%,72.33%,0.47,-0.56,94.29%,,71.53%,-0.12%,,0.49%
+,Sum,74,,948,,,,,,,,,,-2.00,
